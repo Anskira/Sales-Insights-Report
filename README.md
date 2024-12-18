@@ -20,3 +20,6 @@ This dashboard provides quick and latest sales insights in order to support data
   - Using a bar chart displayed the top 5 customers that generate the most revenue, using filters.
   - Also displayed the top 5 products that generate the most revenue
   - Plotted a revenue trend, revenue by month
+
+    
+![Sales Report](Sales_report.png)
