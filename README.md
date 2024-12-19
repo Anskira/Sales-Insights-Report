@@ -4,6 +4,17 @@
 In this project I have created an interactive Power BI dashboard to unlock sales insights that are not visible before sales team for decision support and automate them to reduce manual time spent in data gathering.
 This dashboard provides quick and latest sales insights in order to support data driven decision making.
 
+### Data preview
+This dataset consists of five schemas:
+- Customers: It stores information related to customers like their name, type and this schema has a unique id 'customer_code' that is the primary key
+- Transactions: It stores information related to all the transactions happening with the company's customers, like the id of the product sold, customer_code, sales_amount etc
+- Products: It stores information related to the products sold by the company, product_code is it's primary key
+- Markets: It stores information related to the market name and the zone in which their customers are located, markets_code is it's primary key
+- Date: It stores information related to the dates on which the transactions happen
+   
+
+
+
 ### Steps followed
 1. Load data (.sql file) into MySQL Workbench, perform basic data analysis
 2. Load the sql data file in PowerBI desktop
