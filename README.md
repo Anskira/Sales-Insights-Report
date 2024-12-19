@@ -11,7 +11,8 @@ This dataset consists of five schemas:
 - Products: It stores information related to the products sold by the company, product_code is it's primary key
 - Markets: It stores information related to the market name and the zone in which their customers are located, markets_code is it's primary key
 - Date: It stores information related to the dates on which the transactions happen
-  
+
+After performing data modelling, I have established relations between the table and represented them in the start schema approach
 ![Dataset Schema](Star_schema.png)
 
 
