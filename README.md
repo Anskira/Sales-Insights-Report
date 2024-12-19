@@ -1,4 +1,4 @@
-# Sales Report
+# Sales Insights Report
 
 ## Problem Statement 
 In this project I have created an interactive Power BI dashboard to unlock sales insights that are not visible before sales team for decision support and automate them to reduce manual time spent in data gathering.
